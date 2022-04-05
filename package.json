@@ -1,0 +1,15 @@
+{
+  "name": "uni-shop",
+  "version": "1.0.0",
+  "description": "uni-app小程序练习",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@escook/request-miniprogram": "^0.2.1"
+  }
+}
