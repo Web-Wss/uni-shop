@@ -40,8 +40,10 @@
                     "path" : "goods_list/goods_list",
                     "style" :                                                                                    
                 {
+                  "onReachBottomDistance":150,
                     "navigationBarTitleText": "",
-                    "enablePullDownRefresh": false
+                    "enablePullDownRefresh": true,
+                    "backgroundColor":"#f8f8f8"
                 }
                 
                 }
